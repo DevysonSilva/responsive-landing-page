@@ -13,6 +13,6 @@ Este repositório contém o código-fonte da landing page de uma cafeteria. O de
 - JavaScript
 
 ## Deploy
-Veja a landing page em funcionamento [aqui](URL_DO_DEPLOY).
+Veja a landing page em funcionamento [aqui](https://devysonsilva.github.io/Dev-Cafe/).
 
 Explore o site e veja como um design simples e eficaz pode melhorar a experiência de navegação do usuário.
