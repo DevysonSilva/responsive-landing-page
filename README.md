@@ -1,4 +1,4 @@
-# Dev-cafe: Landing Page para Cafeteria
+# Landing page responsiva: Landing Page para Cafeteria
 
 Este repositório contém o código-fonte da landing page de uma cafeteria. O design é moderno, responsivo e otimizado para proporcionar a melhor experiência ao usuário.
 
